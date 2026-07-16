@@ -4,7 +4,7 @@ Tài liệu này dành cho người dùng cuối. Nếu chỉ dùng focuser vớ
 
 Phiên bản khuyến nghị:
 
-- Firmware: `1.2.6`
+- Firmware: `1.2.7`
 - Driver ASCOM: `1.23.0`
 - Tên thiết bị trong ASCOM Chooser: `Viet DIY Focuser`
 
