@@ -321,9 +321,6 @@ Khi báo lỗi, nên gửi kèm:
 - phiên bản driver;
 - phiên bản firmware;
 - ảnh màn hình Setup;
-- model motor;
-- loại TMC2208/TMC2209;
 - microstep đang dùng;
 - top-speed delay;
-- nguồn cấp;
 - mô tả cơ khí: nối trực tiếp, pulley hay hộp số.
