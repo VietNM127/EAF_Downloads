@@ -63,7 +63,7 @@ Nếu không thay đổi cấu hình, bấm `Save & Apply` sẽ đóng nhanh và
 
 Làm theo thứ tự này:
 
-1. Xoay núm focus của kính về gần điểm trong cùng.
+1. Xoay núm focus của kính về gần điểm trong cùng. (Mặc định : xoay ngược chiều kim đồng hồ)
 2. Lắp EAF vào núm focus.
 3. Mở Setup của `Viet DIY Focuser`.
 4. Chọn đúng COM hoặc tick `Auto-detect DIY EAF`.
