@@ -5,7 +5,7 @@ Tài liệu này dành cho người dùng cuối. Nếu chỉ dùng focuser vớ
 Phiên bản khuyến nghị:
 
 - Firmware: `1.2.7`
-- Driver ASCOM: `1.23.0`
+- Driver ASCOM: `1.24.0`
 - Tên thiết bị trong ASCOM Chooser: `Viet DIY Focuser`
 
 ## 1. Cài đặt
@@ -19,7 +19,7 @@ Cài ASCOM Platform trước nếu máy chưa có.
 Chạy file cài:
 
 ```text
-DIY-EAF-ASCOM-Setup-1.23.0.exe
+DIY-EAF-ASCOM-Setup-1.24.0.exe
 ```
 
 Sau khi cài xong, trong ASCOM Chooser sẽ có thiết bị:
@@ -171,12 +171,18 @@ Nếu motor kêu, giật hoặc mất bước, hãy tăng giá trị này.
 
 Trong cửa sổ Manual Control:
 
-- `Fast (Coarse)`: chạy nhanh để chỉnh thô.
-- `Slow (Fine)`: chạy chậm để chỉnh tinh.
+- `Manual speed`: chọn tốc độ chạy tay tạm thời.
+  - `Slowest`
+  - `Slow`
+  - `Normal`
+  - `Fast`
+  - `Fastest`
 - `Hold to Move In`: giữ để chạy vào trong.
 - `Hold to Move Out`: giữ để chạy ra ngoài.
 
 Motor chỉ chạy khi giữ nút. Nhả nút để dừng.
+
+Tốc độ trong Manual Control chỉ có tác dụng tạm thời trong cửa sổ này. Nó không lưu vào setup và không ghi đè tốc độ chính của focuser.
 
 Luôn quan sát focuser khi chạy tay. Không giữ nút đến khi cơ khí chạm hard stop.
 
