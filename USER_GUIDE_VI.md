@@ -4,8 +4,8 @@ Tài liệu này dành cho người dùng cuối. Nếu chỉ dùng focuser vớ
 
 Phiên bản khuyến nghị:
 
-- Firmware: `1.2.8`
-- Driver ASCOM: `1.26.0`
+- Firmware: `1.2.10`
+- Driver ASCOM: `1.29.0`
 - Tên thiết bị trong ASCOM Chooser: `Viet DIY Focuser`
 
 ## 1. Cài đặt
@@ -19,7 +19,7 @@ Cài ASCOM Platform trước nếu máy chưa có.
 Chạy file cài:
 
 ```text
-DIY-EAF-ASCOM-Setup-1.26.0.exe
+DIY-EAF-ASCOM-Setup-1.29.0.exe
 ```
 
 Sau khi cài xong, trong ASCOM Chooser sẽ có thiết bị:

@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "firmware": {
+    "version": "1.2.10",
+    "model": "DIY-EAF-ESP32",
+    "protocol": 1,
+    "url": "https://raw.githubusercontent.com/VietNM127/EAF_Downloads/main/AutoFocus-1.2.10-ota.bin",
+    "size": 351920,
+    "crc32": "704D766F",
+    "sha256": "681939087136282010D2381AB4CA3B8BC1807E02E2B67344613A987268AB33B9",
+    "notes": "Firmware 1.2.10 is the current stable release."
+  },
+  "driver": {
+    "version": "1.29.0",
+    "url": "https://raw.githubusercontent.com/VietNM127/EAF_Downloads/main/DIY-EAF-ASCOM-Setup-1.29.0.exe"
+  }
+}
