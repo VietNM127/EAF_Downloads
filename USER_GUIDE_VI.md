@@ -264,7 +264,6 @@ Nguyên nhân có thể:
 - dòng motor quá thấp;
 - tốc độ quá cao;
 - cơ khí bị kẹt;
-- đấu sai cặp dây motor.
 
 Thử:
 
@@ -272,7 +271,6 @@ Thử:
 - giảm `Speed`;
 - kiểm tra nguồn cấp;
 - kiểm tra khớp nối cơ khí;
-- kiểm tra dây motor.
 
 ### Motor quay ngược
 
