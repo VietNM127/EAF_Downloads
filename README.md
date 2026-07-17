@@ -4,7 +4,7 @@ Trang tải firmware, ASCOM driver và hướng dẫn sử dụng cho DIY EAF.
 
 ## Tải xuống
 
-- [ASCOM Driver 1.29.0](./DIY-EAF-ASCOM-Setup-1.29.0.exe)
+- [ASCOM Driver 1.29.1](./DIY-EAF-ASCOM-Setup-1.29.1.exe)
 - [Hướng dẫn sử dụng tiếng Việt](./USER_GUIDE_VI.md)
 
 ## Firmware

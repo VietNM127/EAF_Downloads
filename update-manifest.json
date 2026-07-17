@@ -11,7 +11,7 @@
     "notes": "Firmware 1.2.10 is the current stable release."
   },
   "driver": {
-    "version": "1.29.0",
-    "url": "https://raw.githubusercontent.com/VietNM127/EAF_Downloads/main/DIY-EAF-ASCOM-Setup-1.29.0.exe"
+    "version": "1.29.1",
+    "url": "https://raw.githubusercontent.com/VietNM127/EAF_Downloads/main/DIY-EAF-ASCOM-Setup-1.29.1.exe"
   }
 }
