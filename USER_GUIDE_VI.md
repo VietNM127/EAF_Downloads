@@ -131,7 +131,7 @@ Maximum position vẫn giữ nguyên
 NINA vẫn dùng như cũ
 ```
 
-Microstep chỉ làm motor chạy mịn hơn hoặc thô hơn ở bên trong.
+Microstep chỉ làm motor chạy mịn hơn hoặc thô hơn ở bên trong. TMC2208 còn tự nội suy dòng pha lên 1/256 microstep để giảm rung; nội suy không đổi số xung, vị trí, hành trình hoặc thời gian di chuyển mà người dùng nhìn thấy.
 
 Khuyến nghị:
 
