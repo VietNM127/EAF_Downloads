@@ -4,10 +4,15 @@ Trang tải firmware, ASCOM driver và hướng dẫn sử dụng cho DIY EAF.
 
 ## Tải xuống
 
-- [ASCOM Driver 1.29.2](./DIY-EAF-ASCOM-Setup-1.29.2.exe)
+- [ASCOM Driver 1.29.5](./DIY-EAF-ASCOM-Setup-1.29.5.exe)
 - [Hướng dẫn sử dụng tiếng Việt](./USER_GUIDE_VI.md)
 
-## Firmware
+## Firmware hiện tại
+
+- [Firmware AutoFocus 1.3.5 OTA payload](./AutoFocus-1.3.5-ota.bin)
+- [Firmware AutoFocus 1.3.5 merged image](./AutoFocus-1.3.5-merged.bin)
+
+## Firmware cũ
 
 - [Firmware AutoFocus 1.2.10 OTA payload](./AutoFocus-1.2.10-ota.bin)
 - [Firmware AutoFocus 1.2.10 merged image](./AutoFocus-1.2.10-merged.bin)

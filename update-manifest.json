@@ -1,17 +1,17 @@
 {
   "schema": 1,
   "firmware": {
-    "version": "1.2.10",
+    "version": "1.3.5",
     "model": "DIY-EAF-ESP32",
     "protocol": 1,
-    "url": "https://raw.githubusercontent.com/VietNM127/EAF_Downloads/main/AutoFocus-1.2.10-ota.bin",
-    "size": 351920,
-    "crc32": "704D766F",
-    "sha256": "681939087136282010D2381AB4CA3B8BC1807E02E2B67344613A987268AB33B9",
-    "notes": "Firmware 1.2.10 is the current stable release."
+    "url": "https://raw.githubusercontent.com/VietNM127/EAF_Downloads/main/AutoFocus-1.3.5-ota.bin",
+    "size": 351200,
+    "crc32": "0F6E3B45",
+    "sha256": "8B620634607D36664F65D288A28480CB277B3F7EE8D37FA8CB532C1B8FE8EFC1",
+    "notes": "Firmware 1.3.5 enables TMC2208 MicroPlyer interpolation and VREF current control."
   },
   "driver": {
-    "version": "1.29.2",
-    "url": "https://raw.githubusercontent.com/VietNM127/EAF_Downloads/main/DIY-EAF-ASCOM-Setup-1.29.2.exe"
+    "version": "1.29.5",
+    "url": "https://raw.githubusercontent.com/VietNM127/EAF_Downloads/main/DIY-EAF-ASCOM-Setup-1.29.5.exe"
   }
 }
