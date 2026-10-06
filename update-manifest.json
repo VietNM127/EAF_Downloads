@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "firmware": {
-    "version": "1.3.7",
+    "version": "1.3.15",
     "model": "DIY-EAF-ESP32",
     "protocol": 1,
-    "url": "https://raw.githubusercontent.com/VietNM127/EAF_Downloads/main/AutoFocus-1.3.7-ota.bin",
-    "size": 354784,
-    "crc32": "2A72AC70",
-    "sha256": "022AD8AD9FA67A9A9C959A0F0160609D37B97CE8702E533D3A406A41BF3A9F63",
-    "notes": "Firmware 1.3.7 cải tiến HBX/EC16: nối dài hành trình khi xoay liên tục, tăng tốc theo nhịp xoay đến mức Fastest. Cổng phụ mặc định tắt trên box cũ; giữ cấu hình AUX qua OTA."
+    "url": "https://raw.githubusercontent.com/VietNM127/EAF_Downloads/main/AutoFocus-1.3.15-ota.bin",
+    "size": 354944,
+    "crc32": "3CD5BD62",
+    "sha256": "DCF67EF7F2504777377DD25A0E7556595029ACF4A7042007C323E62B8BFA6303",
+    "notes": "Firmware 1.3.15: HBX/EC16 chỉnh từng nấc 100 UI step ở Normal; nấc kế tiếp trong 0,5 giây chuyển sang quay liên tục. Khoảng 40 nấc nhanh sau nấc đầu đạt Fastest, thời gian tăng tốc gấp đôi bản 1.3.13 với cùng nhịp xoay. Quay liên tục giữ tốc độ qua nhịp nghỉ tay và dừng sau 1,5 giây không có tín hiệu; motor có thể quay thêm tối đa 1,5 giây khi ngừng xoay núm. Giữ tọa độ 3200 UI step/vòng, MicroPlyer và VREF. AUX mặc định tắt trên box cũ; giữ cấu hình qua OTA."
   },
   "driver": {
     "version": "1.29.5",
